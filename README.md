@@ -61,3 +61,21 @@ Memantau metrik utama dan tren secara bulanan untuk mengidentifikasi pola dan ar
 - Skor kepuasan masih rendah, evaluasi prosedur dan pengalaman pasien
 - Jam dan hari sibuk harus diantisipasi dengan penjadwalan staf yang lebih strategis
 - Fokus pelayanan bisa diarahkan ke kelompok usia lanjut dan dewasa produktif, karena mendominasi
+
+## Dashboard 2 : Tampilan Konsolidasi
+Metrik yang serupa dengan Tampilan Bulanan, tetapi diakumulasikan berdasarkan rentang tanggal yang dapat disesuaikan untuk mendapatkan wawasan dan analisis tren yang lebih luas.
+- <a href="https://github.com/ifanapridarahman/Dashboard-Ruang-Gawat-Darurat-Rumah-Sakit-PowerBI/blob/main/Dashboard%20Ruang%20Gawat%20Darurat%20Rumah%20Sakit_Tampilan%20Konsolidasi.jpg">Dashboard 2 </a>
+![Dashboard Ruang Gawat Darurat Rumah Sakit_Tampilan Konsolidasi](https://github.com/user-attachments/assets/b545f1d4-abdb-4a8e-b421-e4d3ec60767b)
+
+## Dashboard 3 : Detail Pasien
+Memberikan wawasan mendalam pada tingkat data pasien untuk memungkinkan analisis dan pemecahan masalah secara detail.
+- <a href="https://github.com/ifanapridarahman/Dashboard-Ruang-Gawat-Darurat-Rumah-Sakit-PowerBI/blob/main/Dashboard%20Ruang%20Gawat%20Darurat%20Rumah%20Sakit_Detail%20Pasien.jpg">Dashboard 3 </a>
+![Dashboard Ruang Gawat Darurat Rumah Sakit_Detail Pasien](https://github.com/user-attachments/assets/49397c26-f1cb-468f-9f3a-7994d37c4dc2)
+
+
+# Dashboard 4 : Insight Dashboard Konsolidasi
+Analisis deskriptif untuk setiap metrik dan visualisasi, termasuk pola, anomali, dan rekomendasi yang dapat ditindaklanjuti guna mengoptimalkan operasional ruang gawat darurat dan perawatan pasien.
+- <a href="https://github.com/ifanapridarahman/Dashboard-Ruang-Gawat-Darurat-Rumah-Sakit-PowerBI/blob/main/Dashboard%20Ruang%20Gawat%20Darurat%20Rumah%20Sakit_Tampilan%20Konsolidasi.jpg">Dashboard 4</a>
+![Dashboard Ruang Gawat Darurat Rumah Sakit_Insight](https://github.com/user-attachments/assets/f11f098d-19f8-408d-8cbe-86d590935ebb)
+
+
