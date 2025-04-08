@@ -4,6 +4,7 @@
 Untuk meningkatkan efisiensi operasional dan memberikan wawasan yang dapat ditindaklanjuti terkait kinerja ruangan gawat darurat, kita perlu membuat Dashboard Ruang Gawat Darurat Rumah Sakit menggunakan Power BI. Solusi ini akan memungkinkan para pemangku kepentingan untuk memantau, menganalisis, dan mengambil keputusan berbasis data terkait manajemen pasien dan optimalisasi layanan.
 
 ## Dataset yang Digunakan
+- <a href="https://github.com/ifanapridarahman/Dashboard-Ruang-Gawat-Darurat-Rumah-Sakit-PowerBI/blob/main/Hospital%20ER_Data.xlsx">Dataset</a>
 
 ## Persyaratan KPI
 1. **Jumlah Pasien**
